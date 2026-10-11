@@ -31,7 +31,7 @@ class State extends Country {
     }
 }
 
-public class Slip_23_Q1 {
+public class main {
     public static void main(String[] args) {
         State s = new State("Asia", "India", "Maharashtra", "Pune");
         System.out.println("\nGeographical Hierarchy\n");
